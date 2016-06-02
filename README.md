@@ -16,4 +16,9 @@ What do I need to know? You should have at least a basic knowledge of HTML. Some
 1. First pillar of RWD: flexible layouts
 1. Second pillar of RWD: flexible content
 1. Third pillar of RWD: media queries
-1. Make that same page responsive.
+1. Make the sample page responsive.
+
+## Resources
+
+* [The article that started the whole RWD movement](http://alistapart.com/article/responsive-web-design).
+* [The book by the author of said article](https://abookapart.com/products/responsive-web-design).
